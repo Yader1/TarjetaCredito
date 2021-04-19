@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\xibac\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\xibac\\.nuget\\packages"
+    ]
+  }
+}
